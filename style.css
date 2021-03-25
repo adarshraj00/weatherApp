@@ -1,0 +1,26 @@
+
+.box{
+    width:80vw;
+    height:50vh;
+    background-color: green;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    margin:auto;
+    text-align:center;
+}
+
+.form{
+    display:flex;
+    flex-direction: column;
+    width:50vw;
+    height:40px;
+    margin:auto;
+}
+#txt{
+    padding:10px; 
+}
+#btn{
+    cursor:pointer;
+}
+
